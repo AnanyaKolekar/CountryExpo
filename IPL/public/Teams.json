@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Royal Challengers Bengaluru",
+    "homeGround": "Chinnaswamy Stadium",
+    "championships": 1,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Royal_Challengers_Bengaluru_Logo.svg/800px-Royal_Challengers_Bengaluru_Logo.svg.png"
+  },
+  {
+    "name": "Mumbai Indians",
+    "homeGround": "Wankhede Stadium",
+    "championships": 5,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1920px-Mumbai_Indians_Logo.svg.png"
+  },
+  {
+    "name": "Punjab Kings",
+    "homeGround": "Punjab Cricket Association IS Bindra Stadium",
+    "championships": 0,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Punjab_Kings_Logo.svg/800px-Punjab_Kings_Logo.svg.png"
+  }
+]
